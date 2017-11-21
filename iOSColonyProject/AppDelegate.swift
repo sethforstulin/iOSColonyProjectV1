@@ -42,5 +42,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 //this is seth
+    //please tell me this works stevie (cuz i assumed it would be you doing this and not daniel)
 }
 
