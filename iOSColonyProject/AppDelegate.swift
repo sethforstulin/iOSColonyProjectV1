@@ -42,6 +42,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
 //this is stevie
-//seth is a fag
+//lagayo is a fag
 }
 
